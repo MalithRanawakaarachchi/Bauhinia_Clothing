@@ -1,0 +1,150 @@
+.border-styles{
+    border-style:solid solid solid solid;
+    border-color:black;
+}
+
+.border-styles1{
+    border-style:solid none solid none;
+    border-color:#004cbf;
+}
+
+.border-styles2{
+    border-style:solid none solid none;
+    border-color:#3778C2;
+}
+
+.block-styles{
+    width:400px;
+    height:510px;
+    /*margin:180px auto auto 950px;*/
+    margin:10px 30px auto 30px;
+    border-radius:15px;
+}
+
+.block-styles1{
+    width:1540px;
+    height:40px;
+    margin:-20px -10px auto -10px;
+}
+
+.block-styles2{
+    height:80px;
+    margin:0px 30px auto 10px;
+}
+
+.block-styles3{
+    width:20.67%;
+    height:80px;
+    margin:0px -30px auto -30px;
+}
+
+.block-styles4{
+    margin:30px 5px auto 5px;
+    height:600px;
+    width:71.5%;
+}
+
+.block-styles5{
+    margin:30px auto auto auto;
+    height:600px;
+    width:27%;
+}
+
+.block-styles6{
+    margin:0px -10px auto -10px;
+    height:80px;
+    width:80px;
+}
+
+.block-styles7{
+    margin:80px auto auto auto;
+    border-radius:15px;
+}
+
+.background-styles{
+    background-color:rgba(255,255,255,0.2);
+}
+
+.background-style1s{
+background-image:linear-gradient(to right top, #01fbb7,#01a0fb);
+}
+.background-styles2{
+background-color:blue;
+}
+
+.navBack{
+    background-color: #01a0fb;
+}
+
+.background-styles3{
+    background-color:rgb(255,255,255);
+}
+
+.anchortag{
+    text-decoration: none;
+}
+
+.textbox{ 
+width:100%; border-style:none none solid none; border-color:#818081; background-color:transparent;
+}
+
+.div-size{height:30px;}
+
+.div-width{width:1146px;}
+.div-height{height:55px;}
+
+.float-left{ float:left; }
+.clear-left{ clear:left; }
+.float-right{ float:right; }
+.clear-right{ clear:right; }
+
+#letter-space{ letter-spacing: 10px;}
+#margin{margin:0px auto;}
+
+.color{color:black;}
+.nev-height{height:200px;}
+
+.button{
+    border-style:none none none none; background-color:transparent; 
+}
+
+.button1{
+width:100%; height:100%; border-style:none none none none; color:white; background-color:transparent; 
+}
+
+.button-size{width:100%; height:100%;}
+
+.cal-buttons{
+    width:25%; height:100px; color:white; margin:-5px; border-style:solid; border-width:1px; 
+}
+
+.button-height{ height:30px;}
+
+.div-width-25{width:42.5%;}
+.div-width-50{width:57.5%;}
+.div-width-100{width:100%;}
+.top-div-height{ height:25px;}
+.div-width{width:99%;}
+
+.margin{margin:-10px auto -8px 0px;}
+.margin2{margin-bottom:0px;}
+
+.outline-border{outline-style:none;}
+
+.textbox-font{
+    font-size:70pt; color:white;
+}
+
+.main-div-padding{padding:10px;}
+
+.padding{
+    padding:10px;
+}
+
+.empty-div-height{
+    height:50px;
+}
+
+.empty-div-height2{
+    height:30px;
+}
